@@ -1,0 +1,23 @@
+.history-list-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.items {
+  display: flex;
+  align-items: center;
+}
+
+.image-logo {
+  margin-left: 35px;
+  margin-right: 12px;
+  width: 20px;
+}
+
+.delete-button {
+  outline: none;
+  border: none;
+  background-color: color;
+}
